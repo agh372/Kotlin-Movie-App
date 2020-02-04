@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/9gag-CLI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GCSHackathon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoogleMapsNearbyPlacesDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MovieRecommendation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/litho" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memeJS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personal/agh372.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/phimpme-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quora-insincere" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quora-insincere/deeplearning/code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/susi_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/teammates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/upterm" vcs="Git" />
+  </component>
+</project>
